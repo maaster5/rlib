@@ -1,2 +1,4 @@
 italic(y)~`=`~0.0094 + 0.95*~italic(x)
 "italic(y)~`=`~0.0094 + 0.95*~italic(x)"
+
+https://www.youtube.com/watch?v=SS76tQw27kY
